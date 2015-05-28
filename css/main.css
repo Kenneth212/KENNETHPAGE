@@ -174,7 +174,7 @@ img:last-of-type {
 }
 
 #title {
-  background-image: url("http://i.ytimg.com/vi/jNT3O4NlSTo/maxresdefault.jpg");
+  background-image: url("http://www.dream-wallpaper.com/free-wallpaper/travel-wallpaper/city-night-piece-4-wallpaper/1920x1200/free-wallpaper-19.jpg");
    background-attachment: fixed;  
 }
 
@@ -185,17 +185,17 @@ img:last-of-type {
 }
 
 #slide2 {
-  background-image: url("http://www.crvdmedia.com/crvd/wp-content/uploads/2013/02/Wood_Background.jpg");
+  background-image: url("http://www.twitterevolutions.com/bgs/night-city-scape-twitter-background.jpg");
   background-attachment: fixed;
 }
 
 #slide3:before {
-  background-image: url("http://www.pulsarwallpapers.com/data/media/3/Alien%20Ink%202560X1600%20Abstract%20Background.jpg");
+  background-image: url("http://bigbackground.com/wp-content/uploads/2013/08/new-york-city-at-night-background-1024x640.jpg");
   transform: translateZ(-1px) scale(2);
   z-index:-1;
 }
 
 #slide4 {
-  background: lime;
+  background-image: url("http://www.dream-wallpaper.com/free-wallpaper/travel-wallpaper/city-night-piece-4-wallpaper/1280x800/free-wallpaper-3.jpg");
 }
 

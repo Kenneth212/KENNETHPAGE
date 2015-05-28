@@ -7,49 +7,9 @@
 	<link rel="stylesheet" type="text/css" href="css/main.css">
 	<link rel="stylesheet" href="css/animate.css">
 	<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
-
-<header>
-  <nav>
-    <ul>
-      <li>
-        <a href="#">
-          <i class="fa fa-diamond"></i><br>
-          Home
-        </a>
-      </li>
-      <li>
-        <a href="#">
-          <i class="fa fa-bolt"></i><br>
-          Info
-        </a>
-      </li>
-      <li>
-        <a href="#">
-          <i class="fa fa-briefcase"></i><br>
-          Work
-        </a>
-      </li>
-      <li>
-        <a href="#">
-          <i class="fa fa-heartbeat"></i><br>
-          Contact
-        </a>
-      </li>
-      <li>
-        <a href="#">
-          <i class="fa fa-sun-o"></i><br>
-          Gallery
-        </a>
-      </li>
-    </ul>
-  </nav>
-</header>
-
+	<link rel="stylesheet" type="text/js" href="js/bootstrap.min.js">
 </head>
 <body>
-
-
-
 <div id="title" class="slide header">
 <style type="text/css">
 ul {
@@ -61,24 +21,15 @@ ul {
 li {
     display: inline;
 }
-
 </style>
 </head>
 <body>
-
 <ul>
-
 </ul>
-
 </body>
-
-  <h1 class="button animated zoomInDown">Landing page</h1>
-</div>
-
 <div id="slide1" class="slide">
   <div class="title">
-  
-    <h1>To-Do List</h1>
+      <h1>To-Do List</h1>
     <p><a href="http://localhost/Kenneth/index.php"> To-Do List</a></p>
   </div>
 </div>
@@ -94,7 +45,8 @@ li {
   <div class="title">
 
     <h1>Slide 3</h1>
-    <p></p>
+    <p>
+    </p>
   </div>
 </div>
 
